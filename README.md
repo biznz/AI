@@ -1,1 +1,1 @@
-Algorithms used in artificial intelligence course
+Algorithms used in artificial intelligence course implemented with python
